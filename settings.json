@@ -1,0 +1,52 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "remote.SSH.configFile": "\\\\wsl$\\Ubuntu-20.04\\home\\ggt\\.ssh\\config",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "todohighlight.isEnable": true,
+    "yaml.schemas": {
+        "file:///home/ggt/.vscode-server/extensions/atlassian.atlascode-2.10.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": false,
+    "atlascode.bitbucket.enabled": true,
+    "atlascode.jira.enabled": false,
+    "git.autofetch": true,
+    "files.autoSave": "afterDelay",
+    "cSpell.userWords": [
+        "elca",
+        "Kojg",
+        "kubernetes",
+        "pydantic",
+        "sonarqube",
+        "starlette",
+        "uvicorn"
+    ],
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.codeLens.enabled": false,
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "editor.fontFamily": "JetBrains Mono,Consolas, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "editor.fontWeight": "300",
+    "editor.fontLigatures": true,
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    "workbench.colorCustomizations" : {
+        //https://glitchbone.github.io/vscode-base16-term/#/gruvbox-dark-soft
+        "terminal.background":"#35364d",
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
