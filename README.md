@@ -117,5 +117,11 @@ Add custom configuration :
     },
 } 
 ```
-
+# Useful VSCode plugins
+- Name: TODO Highlight
+Id: wayou.vscode-todo-highlight
+Description: highlight TODOs, FIXMEs, and any keywords, annotations...
+Version: 1.0.5
+Publisher: Wayou Liu
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
 
