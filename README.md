@@ -118,10 +118,12 @@ Add custom configuration :
 } 
 ```
 # Useful VSCode plugins
-- Name: TODO Highlight
-Id: wayou.vscode-todo-highlight
-Description: highlight TODOs, FIXMEs, and any keywords, annotations...
-Version: 1.0.5
-Publisher: Wayou Liu
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
+- TODO Highlight https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
+- Code Spell Checker https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+- Trailing Spaceshttps://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces
+- Emoji Log https://marketplace.visualstudio.com/items?itemName=ahmadawais.emoji-log-vscode
+- Git supercharged https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+- Live Share https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+- Markdown All in One https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+- REST Client https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 
