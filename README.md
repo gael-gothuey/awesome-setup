@@ -120,7 +120,7 @@ Add custom configuration :
 # Useful VSCode plugins
 - TODO Highlight https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
 - Code Spell Checker https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
-- Trailing Spaceshttps://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces
+- Trailing Spaces https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces
 - Emoji Log https://marketplace.visualstudio.com/items?itemName=ahmadawais.emoji-log-vscode
 - Git supercharged https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 - Live Share https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
