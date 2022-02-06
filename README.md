@@ -31,7 +31,7 @@ Edit ~/.zshrc  and add cool plugins
 
 ```bash
 vim ~/.zshrc
-edit plugins --> plugins=(git ssh-agent docker docker-compose oc kubectl terraform zsh�autosuggestions zsh-syntax-highlighting colorize ubuntu)
+edit plugins --> plugins=(git ssh-agent docker docker-compose oc kubectl terraform zsh-autosuggestions zsh-syntax-highlighting colorize ubuntu)
 ```
 
 Save and apply changes
