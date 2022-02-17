@@ -117,6 +117,15 @@ Add custom configuration :
     },
 } 
 ```
+Add custom shortcuts (switch to prompt terminal):
+```json
+// Place your key bindings in this file to override the defaults
+[
+        // Toggle between terminal and editor focus
+{ "key": "ctrl+[IntlBackslash]", "command": "workbench.action.terminal.focus"},
+
+]
+```
 # Useful VSCode plugins
 - TODO Highlight https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
 - Code Spell Checker https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
