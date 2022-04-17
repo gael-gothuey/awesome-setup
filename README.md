@@ -1,6 +1,6 @@
 # Set up bash
 
-## Set Oh-my-zsh
+## Set up Oh-my-zsh
 
 Install zsh
 
@@ -30,8 +30,10 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 Edit ~/.zshrc  and add cool plugins
 
 ```bash
+# Update plugins
 vim ~/.zshrc
-edit plugins --> plugins=(git ssh-agent docker docker-compose oc kubectl terraform zsh-autosuggestions zsh-syntax-highlighting colorize ubuntu)
+# Add this list of useful plugins 
+plugins=(git ssh-agent docker docker-compose oc kubectl terraform zsh-autosuggestions zsh-syntax-highlighting colorize ubuntu)
 ```
 
 Save and apply changes
