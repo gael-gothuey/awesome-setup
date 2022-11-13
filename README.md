@@ -113,7 +113,7 @@ add `One Half Dark` theme in `settings.json` (Latest version of Windows Terminal
         },
 ```
 
-Set  ``One Half Dark`` and  ``Jetbrains Mono font``
+Set  ``One Half Dark`` and  ``JetBrains Mono font``
 
 ```bash
 download [JetBrains Nerd Font](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete.ttf)
@@ -175,4 +175,6 @@ Add custom shortcuts (switch to prompt terminal):
 
 ## Debian/Ubuntu set up
 
-TODO
+### Homebrew
+
+Install Homebrew on Linux : https://brew.sh/
