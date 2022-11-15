@@ -16,7 +16,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/mast
 
 ## Useful plugins
 
-**Syntax highlighting & auto-suggestion**
+**Syntax highlighting,auto-suggestion & you-should-use**
 
 ```bash
 # Install zsh-autosuggestions
