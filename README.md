@@ -5,7 +5,7 @@
 Install zsh and python3-pygments (a generic syntax highlighter suitable) packages
 
 ```bash
-sudo apt install zsh
+sudo apt install zsh python3-pygments
 ```
 
 Install Oh-My-Bash
