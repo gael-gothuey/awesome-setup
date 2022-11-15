@@ -2,22 +2,16 @@
 
 ## Set up Oh-my-zsh
 
-Install zsh
+Install zsh and python3-pygments (a generic syntax highlighter suitable) packages
 
 ```bash
 sudo apt install zsh
 ```
 
-install Oh-My-Bash
+Install Oh-My-Bash
 
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
-```
-
-Install zsh and python3-pygments (a generic syntax highlighter suitable) packages
-
-```bash
-sudo apt-get install zsh python3-pygments
 ```
 
 ## Useful plugins
