@@ -43,7 +43,7 @@ Edit ~/.zshrc  and add cool plugins
 # Update plugins
 vim ~/.zshrc
 # Add this list of useful plugins 
-plugins=(git ssh-agent docker docker-compose oc kubectl terraform zsh-autosuggestions zsh-syntax-highlighting colorize ubuntu)
+plugins=(z git ssh-agent docker docker-compose kubectl oc helm terraform colorize ubuntu ng npm you-should-use zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
 Save and apply changes
@@ -67,8 +67,9 @@ ZSH_THEME="amuse"
 export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="amuse"
 # zstyle ':omz:update' mode reminder  # just remind me to update when it's time
+zstyle :omz:plugins:ssh-agent identities ~/.ssh/{id_rsa,github} # add several keys to ssh-agent
 ENABLE_CORRECTION="true"
-plugins=(git ssh-agent docker docker-compose oc kubectl terraform zsh-autosuggestions zsh-syntax-highlighting colorize ubuntu)
+plugins=(z git ssh-agent docker docker-compose kubectl oc helm terraform colorize ubuntu ng npm you-should-use zsh-autosuggestions zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
