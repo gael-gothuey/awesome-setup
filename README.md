@@ -8,10 +8,10 @@ Install zsh and python3-pygments (a generic syntax highlighter suitable) package
 sudo apt install zsh python3-pygments
 ```
 
-Install Oh-My-Bash
+Install oh-my-zsh
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 ## Useful plugins
